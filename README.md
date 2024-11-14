@@ -4,7 +4,7 @@ This project develops a machine learning model capable of classifying traffic si
 
 ## Objective
 
-The goal of this project is to build an AI system that can identify traffic signs in images using a convolutional neural network (CNN) trained with TensorFlow.
+The goal of this project is to build an AI system that can identify traffic signs in images using a convolutional neural network (CNN) trained with PyTorch.
 
 ## Background
 
